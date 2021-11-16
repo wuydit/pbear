@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  readTimeOut: 60
+  writeTimeOut: 60
+log:
+  path: D:/logs/pbear.log
