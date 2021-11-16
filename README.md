@@ -1,2 +1,2 @@
 # pbear
-A simple deployment test platform
+A simple test platform
